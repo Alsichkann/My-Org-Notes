@@ -1,0 +1,4 @@
+Emacs
+=====
+
+Setting for Emacs
